@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kashifbacha89</h1>
+<h3 align="center">I'm a junior Flutter developer with a passion for building beautiful and functional mobile apps. I believe in the power of Flutter to create engaging user experiences, and I'm always excited to learn and collaborate on new projects.</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashifbacha89&label=Profile%20views&color=0e75b6&style=flat" alt="kashifbacha89" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashifbacha89" alt="kashifbacha89" /></a> </p>
-
-- 🌱 Constantly learning and growing **Flutter, Dart**
 
 - 💬 Ask me about **flutter ,dart**
 
@@ -22,3 +20,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kashifbacha89&show_icons=true&locale=en&layout=compact" alt="kashifbacha89" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashifbacha89&show_icons=true&locale=en" alt="kashifbacha89" /></p>
+

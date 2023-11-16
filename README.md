@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MaazKashif</h1>
+<h1 align="center">Hi 👋, I'm Kashif Bacha</h1>
 <h3 align="center">I'm a junior Flutter developer with a passion for building beautiful and functional mobile apps. I believe in the power of Flutter to create engaging user experiences, and I'm always excited to learn and collaborate on new projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashifbacha89&label=Profile%20views&color=0e75b6&style=flat" alt="kashifbacha89" /> </p>
